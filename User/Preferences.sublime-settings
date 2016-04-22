@@ -1,0 +1,21 @@
+{
+	"autoIndent": true,
+	"color_scheme": "Packages/Theme - NotepadPlusPlus/Notepad-Plus-Plus.tmTheme",
+	"copyOnMouseSelect": false,
+	"drawWhiteSpace": "none",
+	"font_face": "Courier New",
+	"font_size": 10,
+	"gutter": true,
+	"highlightLine": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"rulers": false,
+	"tab_size": 4,
+	"theme": "Soda Light 3.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"use_tab_stops": true,
+	"wantVerticalScrollBar": false
+}

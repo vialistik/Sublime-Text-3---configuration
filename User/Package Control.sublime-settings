@@ -1,0 +1,36 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Alignment",
+		"Autoprefixer",
+		"Better CoffeeScript",
+		"Blade Snippets",
+		"BracketHighlighter",
+		"BufferScroll",
+		"ColorPicker",
+		"DevDocs",
+		"DocBlockr",
+		"Emmet",
+		"ERB Autocomplete",
+		"Grunt",
+		"Jade",
+		"Laravel Blade Highlighter",
+		"LiveReload",
+		"Nettuts+ Fetch",
+		"Package Control",
+		"PlainTasks",
+		"Ruby on Rails snippets",
+		"Ruby Slim",
+		"SCSS",
+		"SFTP",
+		"SideBarGit",
+		"Terminal",
+		"Theme - Soda",
+		"Theme - SodaSeti"
+	]
+}
